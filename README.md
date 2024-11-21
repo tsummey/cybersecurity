@@ -1,4 +1,4 @@
-<font size=6 color=blue>Cybersecurity News Dashboard</font>
+## Cybersecurity News ##
 
 Description
 The Cybersecurity News Dashboard is a Python application designed to fetch, filter, and display the latest cybersecurity news articles from multiple RSS feeds. It automates the retrieval and analysis of news entries, presenting relevant articles based on a set of predefined cybersecurity keywords. The application is built with Streamlit to create an interactive, user-friendly dashboard for easy consumption of cybersecurity-related content.
