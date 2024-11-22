@@ -1,5 +1,5 @@
 # Cybersecurity News #
-### Interactive Quiz in Action
+### Demo
 ![Quiz in Action](assets/demo.gif)
 ### Description ###
 
