@@ -1,5 +1,8 @@
 # Prepare Quiz App #
 
+### Interactive Quiz in Action
+![Quiz in Action](assets/quiz_in_action.gif)
+
 ### Description ###
 
 The Prepare Quiz App is a Python application designed to provide a structured and interactive quiz experience for learners preparing for various certifications, including cybersecurity and technical exams. It leverages the `Tkinter` library to create a visually appealing GUI, allowing users to select quizzes, answer questions, track progress, and review results in a seamless environment.
